@@ -35,7 +35,7 @@ Windows 版本GatewayWorker 在这里 https://github.com/walkor/GatewayWorker-fo
 
 Applications\YourApp测试方法
 ======
-使用telnet命令测试（不要使用windows再带的telnet）
+使用telnet命令测试（不要使用windows自带的telnet）
 ```shell
  telnet 127.0.0.1 8282
 Trying 127.0.0.1...
